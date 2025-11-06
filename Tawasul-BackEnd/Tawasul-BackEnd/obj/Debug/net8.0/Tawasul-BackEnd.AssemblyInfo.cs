@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tawasul-BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0344e26dd135a68ca9c955626cdf1440462cd73e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27320a1e223f52ae1a1bedeacf6c199af25b5fdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tawasul-BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tawasul-BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
